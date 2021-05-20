@@ -36,3 +36,165 @@
     transform: rotate(360deg);
   }
 }
+
+#hr1 {
+    position: relative;
+    top: 35px;
+    border: none;
+    height: 2px;
+    background: black;
+    margin-bottom: 50px;
+}
+
+#hr2 {
+    position: relative;
+    top: 0px;
+    border: none;
+    height: 2px;
+    background: black;
+    margin-bottom: 50px;
+}
+
+#header-text {
+    text-align: center;
+}
+
+#logo {
+    margin-top: 50px;
+    margin-bottom: -105px;
+    text-align: center;
+} 
+
+body {
+    background:url(./Images/nza_background.jpg) no-repeat;
+    background-attachment: fixed;
+}
+
+.container.one {
+    background-color:#fff;
+    height: fit-content;
+}
+
+#Charlie {
+    margin: auto;
+    width: 60%;
+    border: 2px solid lightgray;
+    padding: 2px;
+    outline: 5px solid gray;
+    outline-width: 3px;
+    outline-offset: 4px;
+
+}
+
+#p1 {
+    margin: auto;
+    padding: auto;
+}
+
+.text {
+    justify-content: center;
+    background-color: tomato;
+    height: auto;
+    width: auto;
+    color: black;
+}
+
+.text-decoration {
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+
+#where {
+    column-count: 4;
+}
+
+#whereweworktext {
+    padding-top: 40px;
+    column-count: 1;
+}
+
+.row {
+    padding: 40px;
+}
+
+
+#results {
+    text-align: center;
+}
+
+#bird-facts {
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Bird-para {
+    margin-left: 100px;
+}
+
+#wanted {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.wanted-img {
+    height: auto;
+}
+
+.who-we-are {
+    background-color: darkorange;
+    height: 570px;
+    width: 200px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#who-title {
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+}
+
+#poster {
+    height: 175px;
+    width: 175px;
+}
+
+#attorney {
+    width: 400px;
+    padding-bottom: 10px;
+}
+
+.mugshot {
+    height: 200px;
+    width: 200px;
+    padding-bottom: 10px;
+}
+
+#dee {
+    height: 200px;
+    width: 200px;
+    margin-left: 3px;
+    
+}
+
+.fourpics {
+   padding: 3px;
+   padding-top: 10px;
+}
+
+#birdbutton {
+    margin: auto;
+    width: 60%;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+#main {
+    margin: auto;
+    width: 60%;
+    border: 5px solid black;
+    padding: 10px;
+}
